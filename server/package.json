@@ -1,0 +1,16 @@
+{
+  "name": "apollo-graphql",
+  "version": "1.0.0",
+  "description": "A react client with apollo that calls a node server with graphql on it",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "graphql",
+    "apollo",
+    "react"
+  ],
+  "author": "Chakib Afraoucene",
+  "license": "MIT"
+}
